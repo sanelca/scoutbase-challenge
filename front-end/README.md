@@ -21,3 +21,5 @@ Instructions:
 5. `/countries/(:code)` must render the currency and a area code (phone) of that country.
 6. Routes must be fully loadable with a direct link. `/countries/CI` must render the page for Ivory Coast, for example.
 7. End.
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
